@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=150&section=header&text=Saewoong%27s%20GitHub&fontColor=A5B4FC&fontSize=43" width="100%" alt="Saewoong's GitHub" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F5F3FF&height=105&section=header&text=Saewoong%27s%20GitHub&fontColor=6D5BD0&fontSize=34" width="100%" alt="Saewoong's GitHub" />
 
 <br/>
 
