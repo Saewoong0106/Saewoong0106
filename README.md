@@ -45,14 +45,16 @@
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
 
 <br/>
+
 <br/>
 
 ---
 
-### 📊 GitHub Stats
+### 📈 3D Contribution Graph
 
-<img src="https://github-readme-stats.vercel.app/api?username=Saewoong0106&show_icons=true&title_color=A5B4FC&icon_color=A5B4FC&text_color=E6EDF3&bg_color=0D1117&border_color=30363D&hide_border=false" height="180" alt="Saewoong's GitHub Stats"/>
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph"/>
 
 <br/>
+
 
 </div>
